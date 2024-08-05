@@ -12,8 +12,16 @@ class LicitacionController extends Controller
      */
     public function index()
     {
-        
-        return response()->json(['OK' => 'OK'], 200);
+
+        $query = Licitacion::query();
+
+
+        $sortField = request('sort_field', 'created_at');
+        $sortDirection = request('sort_direction', 'asc');
+
+        $licitaciones = $query->orderBy($sortField, $sortDirection)->paginate(20);
+
+        return response()->json(['projects' => $licitaciones], 200);
 
     }
 
