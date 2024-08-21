@@ -1,9 +1,33 @@
 [
   {
+    "expediente": "SE 234/24",
+    "tipo": "Servicios",
+    "objeto": "Servicio de asistencia técnica y consultoría; auditoría interna y auditoría externa para el mantenimiento y renovación del certificado UNE-EN ISO 9001:2015 implantado en el Área de Formación de la Delegación de Empleo del Ayuntamiento de Marbella.",
+    "estado": "Publicada",
+    "importe": 9500,
+    "fechas": "Present.Oferta:27/08/2024"
+  },
+  {
+    "expediente": "CP 04/25",
+    "tipo": "Privado",
+    "objeto": "Contratación de varias pólizas de seguros del Excmo. Ayuntamiento de Marbella durante el ejercicio económico del año 2025; 2026 y 2027",
+    "estado": "Publicada",
+    "importe": 12000,
+    "fechas": "Present.Oferta:22/08/2024"
+  },
+  {
+    "expediente": "SE 214/24",
+    "tipo": "Servicios",
+    "objeto": "Contratación del Servicio por cuenta abierta de Control y Gestión de la Población de jabalíes y Cerdos Asilvestrados en el Municipio de Marbella.",
+    "estado": "Publicada",
+    "importe": 52000,
+    "fechas": "Present.Oferta:20/08/2024"
+  },
+  {
     "expediente": "PAT 271/24",
     "tipo": "Patrimonial",
     "objeto": "Bases Reguladoras de la autorización para la instalación y uso de una barra con motivo de la celebración del Festival Marbepop 2024",
-    "estado": "Publicada",
+    "estado": "Evaluación",
     "importe": 99.12,
     "fechas": "Present.Oferta:07/08/2024"
   },
@@ -11,7 +35,7 @@
     "expediente": "SU 255/24",
     "tipo": "Suministros",
     "objeto": "Contratación del Suministro de trajes de Flamenca y Books Fotográficos para Las Reinas y Damas de las Ferias y Fiestas organizadas por la Delegación de Fiestas.",
-    "estado": "Publicada",
+    "estado": "Evaluación",
     "importe": 18092,
     "fechas": "Present.Oferta:19/08/2024"
   },
@@ -19,7 +43,7 @@
     "expediente": "SE 193/24",
     "tipo": "Servicios",
     "objeto": "Contratación del Servicio de organización de eventos de la Delegación de Participación Ciudadana del Excmo. Ayuntamiento de Marbella.",
-    "estado": "Publicada",
+    "estado": "Evaluación",
     "importe": 99900,
     "fechas": "Present.Oferta:16/08/2024"
   },
@@ -27,7 +51,7 @@
     "expediente": "SU 186/24",
     "tipo": "Suministros",
     "objeto": "Contratación del Suministro por cuenta abierta de Material de Ferreteria para los Servicios Operativos de la Delegación de Tráfico y Transportes",
-    "estado": "Publicada",
+    "estado": "Evaluación",
     "importe": 34998.99,
     "fechas": "Present.Oferta:14/08/2024"
   },
@@ -35,7 +59,7 @@
     "expediente": "PAT 245/24",
     "tipo": "Patrimonial",
     "objeto": "Concesión de Instalación; Explotación y Aprovechamiento de Dieciséis (16) Lotes de Zonas Náuticas Ubicadas en las Playas del T.M. Marbella",
-    "estado": "Publicada",
+    "estado": "Evaluación",
     "importe": 372544,
     "fechas": "Present.Oferta:12/08/2024"
   },
@@ -43,7 +67,7 @@
     "expediente": "SE 202/24",
     "tipo": "Servicios",
     "objeto": "Contratación del Servicio de Creatividad; Diseño; Maquetación; Arte Final y Adaptaciones para diferentes acciones de la Delegación de Juventud del Excmo. Ayuntamiento de Marbella",
-    "estado": "Publicada",
+    "estado": "Evaluación",
     "importe": 8000,
     "fechas": "Present.Oferta:09/08/2024"
   },
@@ -51,7 +75,7 @@
     "expediente": "SU 256/24",
     "tipo": "Suministros",
     "objeto": "Suministro en Régimen de Arrendamiento; de una Estructura Provisional para Auditorio de Espectáculos en la Feria de San Pedro Alcántara 2024",
-    "estado": "Publicada",
+    "estado": "Evaluación",
     "importe": 50400,
     "fechas": "Present.Oferta:07/08/2024"
   },
@@ -59,7 +83,7 @@
     "expediente": "SE 105/24",
     "tipo": "Servicios",
     "objeto": "Contratación del Servicio de Cratividad; Diseño; Maquetación; Arte Final; Adaptaciones e Impresión para diferentes Acciones de la Delegación de Deportes del Excmo. Ayuntamiento de Marbella",
-    "estado": "Publicada",
+    "estado": "Evaluación",
     "importe": 44628.1,
     "fechas": "Present.Oferta:08/08/2024"
   },
@@ -99,17 +123,41 @@
     "expediente": "SU 225/24",
     "tipo": "Suministros",
     "objeto": "Contratación del Suministro por cuenta abierta de Equipos Informáticos",
-    "estado": "Publicada",
+    "estado": "Evaluación",
     "importe": 165289.26,
     "fechas": "Present.Oferta:12/08/2024"
+  },
+  {
+    "expediente": "CP 231/24",
+    "tipo": "Servicios",
+    "objeto": "Contratación del Servicio de Organización; Gestión y Producción de las Actuaciones Artísticas que constituyen el Festival-Jazz Funk 2024- en San Pedro Alcántara",
+    "estado": "Adjudicada",
+    "importe": 9946,
+    "fechas": "PublicaciónPLACSP:Adjudicación:14/08/2024"
+  },
+  {
+    "expediente": "CP 216/24",
+    "tipo": "Servicios",
+    "objeto": "Contrato Privado del Servicio de Patrocinio Publicitario para la Promoción Turística de Marbella a Través del Proyecto de Temporada Taurina 2024 para la Reinauguración de la Plaza de Toros de Marbella",
+    "estado": "Adjudicada",
+    "importe": 66115.7,
+    "fechas": "PublicaciónPLACSP:Adjudicación:06/08/2024"
   },
   {
     "expediente": "SU 185/24",
     "tipo": "Suministros",
     "objeto": "Contratación del Suministro por cuenta abierta de Alimentos y de Materias Primas para las Escuelas Infantiles de Marbella para su posterior elaboración por personal de éstas en condiciones óptimas para el consumo",
-    "estado": "Publicada",
+    "estado": "Evaluación",
     "importe": 116618.86,
     "fechas": "Present.Oferta:07/08/2024"
+  },
+  {
+    "expediente": "CP 212/24",
+    "tipo": "Privado",
+    "objeto": "Contrato Privafo del Servicio de Organización; Gestión y Producción de las Actuaciones Artísticas del Festival Marbepop 2024",
+    "estado": "Adjudicada",
+    "importe": 38807.45,
+    "fechas": "PublicaciónPLACSP:Adjudicación:14/08/2024"
   },
   {
     "expediente": "SU 200/24",
@@ -120,18 +168,26 @@
     "fechas": "Present.Oferta:22/07/2024"
   },
   {
+    "expediente": "CP 194/24",
+    "tipo": "Servicios",
+    "objeto": "Contrato Privado del Servicio de Patrocinio Publicitario para la Promoción Turística y Deportiva de la Ciudad de Marbella; a Través de la Presencia del Logo \"Marca Marbella\" en el Clinic Internacional de Baloncesto Fundación Cesare Scariolo; durante los años 2024 a 2027",
+    "estado": "Resuelta",
+    "importe": 99173.56,
+    "fechas": "PublicaciónPLACSP:Adjudicación:06/08/2024Formalización:08/08/2024"
+  },
+  {
     "expediente": "SE 191/24",
     "tipo": "Servicios",
     "objeto": "Contratación del Servicio por cuenta abierta de Revisiones y/o Reparaciones de los Tacografos de los Vehículos del Parque Móvil de la Delegación de Limpieza del Excmo. Ayuntamiento de Marbella",
-    "estado": "Evaluación",
+    "estado": "Adjudicada",
     "importe": 11150,
-    "fechas": "Present.Oferta:19/07/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:19/08/2024"
   },
   {
     "expediente": "ENA 05/24",
     "tipo": "Patrimonial",
     "objeto": "Enajenación; Mediante Procedimiento Abierto; Subasta Pública; de Tres Plazas de Aparcamiento de Titularidad Municipal situadas en el Edificio B del Conjuto Residencial Las Terrazas de Las Lomas del Marbella Club",
-    "estado": "Publicada",
+    "estado": "Evaluación",
     "importe": 37110,
     "fechas": "Present.Oferta:05/08/2024"
   },
@@ -155,9 +211,9 @@
     "expediente": "SE 124/24",
     "tipo": "Servicios",
     "objeto": "Contratación del Servicio de Revisión y Mantenimiento de Reguladores de Equipos de Buceo y de Equipos de Flotabilidad del Servicio de Prevención; Extinción de Incendios y Salvamentos del Excmo. Ayuntamiento de Marbella (SPEIS) para los ejercicios 2024; 2025 y 2026",
-    "estado": "Evaluación",
+    "estado": "Resuelta",
     "importe": 16632,
-    "fechas": "Present.Oferta:09/07/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:06/08/2024Formalización:08/08/2024"
   },
   {
     "expediente": "CP 206/24",
@@ -219,17 +275,17 @@
     "expediente": "SU 222/24",
     "tipo": "Suministros",
     "objeto": "Contrato Mixto de Suministro en Régimen de Arrendamiento de Elementos y Servicios necesarios para la Celebración de los Diferentes Eventos del Verano 2024 organizados por la Delegación de Fiestas",
-    "estado": "Adjudicada",
+    "estado": "Resuelta",
     "importe": 58780.65,
-    "fechas": "PublicaciónPLACSP:Adjudicación:22/07/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:22/07/2024Formalización:07/08/2024"
   },
   {
     "expediente": "SU 187/24",
     "tipo": "Suministros",
     "objeto": "Suministro de una maquina limpiaplaya rastrilladora remolcada para la retirada de algas para la Delegación de Limpieza del Excmo. Ayuntamiento de Marbella",
-    "estado": "Adjudicada",
+    "estado": "Resuelta",
     "importe": 52900,
-    "fechas": "PublicaciónPLACSP:Adjudicación:16/07/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:16/07/2024Formalización:19/08/2024"
   },
   {
     "expediente": "SE 195/24",
@@ -269,7 +325,7 @@
     "objeto": "Contratación del Servicio para la Impartición y Ejecución de las Acciones Formativas y Deportivas del Programa de Prevención; Ocio y Gestión del Tiempo Libre para el año 2024",
     "estado": "Parcialmente Resuelta",
     "importe": 32600,
-    "fechas": "PublicaciónPLACSP:Adjudicación:02/08/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:13/08/2024"
   },
   {
     "expediente": "SU 178/24",
@@ -299,9 +355,9 @@
     "expediente": "SE 161/24",
     "tipo": "Servicios",
     "objeto": "Contratgación del Servicio por cuenta abierta de Transporte; mediante Autobuses de los Participantes en Actividades Organizadas por la Delegación de Deportes y en las que colabora la Delegación de Deportes",
-    "estado": "Evaluación",
+    "estado": "Adjudicada",
     "importe": 63656.36,
-    "fechas": "Present.Oferta:05/06/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:12/08/2024"
   },
   {
     "expediente": "SU 169/24",
@@ -355,9 +411,9 @@
     "expediente": "SE 188/24",
     "tipo": "Servicios",
     "objeto": "Contratación por cuenta abierta del Servicio de Banquetes con motivo del Encuentro de Socios de los Centros de Participación Activa para Personas Mayores en las Ferias de Marbella y San Pedro Alcántara",
-    "estado": "Parcialmente Adjudicada",
+    "estado": "Parcialmente Resuelta",
     "importe": 39600,
-    "fechas": "PublicaciónPLACSP:Adjudicación:12/06/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:06/08/2024"
   },
   {
     "expediente": "CP 198/24",
@@ -387,25 +443,25 @@
     "expediente": "PAT 209/24",
     "tipo": "Patrimonial",
     "objeto": "PUESTOS DE ALIMENTACIÓN: Autorización de Uso Común Especial sobre los Terrenos destinados a la Instalación de \"Puestos de Alimentacion\" con motivo de la Feria y Fiestas de San Bernabé a celebrar del 5 al 11 de Junio de 2024",
-    "estado": "Parcialmente Resuelta",
+    "estado": "Resuelta",
     "importe": 2356.2,
-    "fechas": "PublicaciónPLACSP:Adjudicación:03/06/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:05/08/2024Formalización:05/08/2024"
   },
   {
     "expediente": "PAT 208/24",
     "tipo": "Patrimonial",
     "objeto": "CASETAS Y PUESTOS DE TIRO Autorización de Uso Común Especial sobre los Terrenos destinados a la Instalación de Casetas y Puestos de Tiro con motivo de la Feria y Fiestas de San Bernabé a celebrar del 5 al 11 de Junio de 2024",
-    "estado": "Parcialmente Resuelta",
+    "estado": "Resuelta",
     "importe": 2068.56,
-    "fechas": "PublicaciónPLACSP:Adjudicación:05/06/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:05/06/2024Formalización:05/08/2024"
   },
   {
     "expediente": "PAT 204/24",
     "tipo": "Patrimonial",
     "objeto": "ATRACCIONES MAYORES Bases Reguladoras del Procedimiento para la Adjudicación de la Autorización de Uso Común Especial sobre los Terrenos destinados a la Instalación de las Atracciones Mecánicas y Actividades Feriales con motivo de la Feria y Fiestas de San Bernabé a celebrar del 5 al 11 de Junio de 2024",
-    "estado": "Adjudicada",
+    "estado": "Resuelta",
     "importe": 12142.08,
-    "fechas": "PublicaciónPLACSP:Adjudicación:05/06/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:05/06/2024Formalización:05/08/2024"
   },
   {
     "expediente": "SE 166/24",
@@ -435,9 +491,9 @@
     "expediente": "D SU 80/24",
     "tipo": "Suministros",
     "objeto": "Suministro consistente en el alquiler de dos maquinas de lavapiezas para los talleres del Servicio de RSU y Servicio de Limpieza del Excmo: Ayuntamiento de Marbella.",
-    "estado": "Evaluación",
+    "estado": "Adjudicada",
     "importe": 8400,
-    "fechas": "Present.Oferta:24/05/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:07/08/2024"
   },
   {
     "expediente": "CP 184/24",
@@ -459,9 +515,9 @@
     "expediente": "SU 167/24",
     "tipo": "Suministros",
     "objeto": "Suministro por cuenta abierta de material diverso de cerrajería para los servicios operativos de Marbella; Nueva Andalucía y Las Chapas; durante el año 2024 y 2025",
-    "estado": "Adjudicada",
+    "estado": "Resuelta",
     "importe": 20661.16,
-    "fechas": "PublicaciónPLACSP:Adjudicación:26/07/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:26/07/2024Formalización:07/08/2024"
   },
   {
     "expediente": "SE 173/24",
@@ -555,9 +611,9 @@
     "expediente": "SU 168/24",
     "tipo": "Suministros",
     "objeto": "Contratación del Suministro por cuenta abierta de Material diverso de Carpintería para los Servicios Operativos de Nueva Andalucía; Marbella y Las Chapas durante los años 2024; 2025; 2026 y 2027",
-    "estado": "Evaluación",
+    "estado": "Adjudicada",
     "importe": 99176.4,
-    "fechas": "Present.Oferta:14/05/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:13/08/2024"
   },
   {
     "expediente": "SE 128/24",
@@ -611,9 +667,9 @@
     "expediente": "SE 143/24",
     "tipo": "Servicios",
     "objeto": "Servicio por cuenta abierta de recogida; manipulación; entrega de cartas postales; notificaciones; etc. y de la ordenación y retorno de información de los justificantes de recepción del Excmo. Ayuntamiento de Marbella (2024-2026)",
-    "estado": "Adjudicada",
+    "estado": "Resuelta",
     "importe": 33057.85,
-    "fechas": "PublicaciónPLACSP:Adjudicación:31/07/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:31/07/2024Formalización:13/08/2024"
   },
   {
     "expediente": "SE 104/24",
@@ -691,9 +747,9 @@
     "expediente": "D SE 67/24",
     "tipo": "Servicios",
     "objeto": "Contratación del Servicio de Organización de Eventos Deportivos dependientes del Distrito de San Pedro Alcántara",
-    "estado": "Adjudicada",
+    "estado": "Parcialmente Resuelta",
     "importe": 57742.72,
-    "fechas": "PublicaciónPLACSP:Adjudicación:12/07/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:12/07/2024Formalización:13/08/2024"
   },
   {
     "expediente": "D SU 87/24",
@@ -747,9 +803,9 @@
     "expediente": "SE 108/24",
     "tipo": "Servicios",
     "objeto": "Servicio de realización de un programa de eventos digitales y un programa de formación; conforme al plan turístico de grandes ciudades de Marbella",
-    "estado": "Adjudicada",
+    "estado": "Resuelta",
     "importe": 157851.24,
-    "fechas": "PublicaciónPLACSP:Adjudicación:15/07/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:15/07/2024Formalización:19/08/2024"
   },
   {
     "expediente": "CAE 121/24",
@@ -803,9 +859,9 @@
     "expediente": "ENA 03/24",
     "tipo": "Patrimonial",
     "objeto": "Enajenación de parcela municipal en Manzana 5 del Sector URP-SP-10; Ensanche Sur; San Pedro Alcántara; con destino a la construcción en una sola etapa de 84 viviendas y locales comerciales; numero de orden 1771 del Inventario Municipal del epígrafe “bienes inmuebles\" con la naturaleza jurídica de patrimonial-incluida en PMS propiedad del Ayuntamiento de Marbella",
-    "estado": "Adjudicada",
+    "estado": "Resuelta",
     "importe": 2870620.06,
-    "fechas": "PublicaciónPLACSP:Adjudicación:01/07/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:01/07/2024Formalización:06/08/2024"
   },
   {
     "expediente": "OB 146/24",
@@ -827,25 +883,25 @@
     "expediente": "SU 66/24",
     "tipo": "Suministros",
     "objeto": "Suministro por cuenta abierta y por lotes de material textil y promocional para los participantes en los eventos organizados por la Delegación de Deportes del Excmo. Ayuntamiento de Marbella durante los años; 2024; 2025; 2026 y 2027",
-    "estado": "Evaluación",
+    "estado": "Adjudicada",
     "importe": 88429.74,
-    "fechas": "Present.Oferta:03/04/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:19/08/2024"
   },
   {
     "expediente": "SE 75/24",
     "tipo": "Servicios",
     "objeto": "Servicio de asistencia técnica para el diseño; organización y ejecución integral de la Feria de Innovación en empresas \"Business Innovation Marbella\"; conforme al plan turístico de grandes ciudades de Marbella",
-    "estado": "Adjudicada",
+    "estado": "Resuelta",
     "importe": 100000,
-    "fechas": "PublicaciónPLACSP:Adjudicación:12/07/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:12/07/2024Formalización:20/08/2024"
   },
   {
     "expediente": "SU 110/24",
     "tipo": "Suministros",
     "objeto": "Contratación de Suministro por cuenta abierta de Equipamiento y Mobiliario para la Reserva Ecológica Dunas de Marbella y Monumento Natural Dunas de Artola-Cabopino en el T.M. Marbella",
-    "estado": "Adjudicada",
+    "estado": "Resuelta",
     "importe": 165289.26,
-    "fechas": "PublicaciónPLACSP:Adjudicación:11/07/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:11/07/2024Formalización:13/08/2024"
   },
   {
     "expediente": "D SE 60/24",
@@ -931,9 +987,9 @@
     "expediente": "SE 85/24",
     "tipo": "Servicios",
     "objeto": "Contratación de Servicio de Mantenimiento y Lavado de Contenedores de Carga Laterial de la Fracción Resto Instalados en el T.M. Marbella para el periodo 2024-2029",
-    "estado": "Evaluación",
+    "estado": "Adjudicada",
     "importe": 4051040,
-    "fechas": "Present.Oferta:27/03/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:13/08/2024"
   },
   {
     "expediente": "SE 99/24",
@@ -1035,9 +1091,9 @@
     "expediente": "SE 71/24",
     "tipo": "Servicios",
     "objeto": "Contratación de Servicio de Organización; Gestión y Realización del Campus Náutico inclusivo \"La Mar de Juegos-Objetivo 2030\"",
-    "estado": "Adjudicada",
+    "estado": "Resuelta",
     "importe": 16300,
-    "fechas": "PublicaciónPLACSP:Adjudicación:02/08/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:02/08/2024Formalización:07/08/2024"
   },
   {
     "expediente": "SE 81/24",
@@ -1075,9 +1131,9 @@
     "expediente": "D SU 39/24",
     "tipo": "Suministros",
     "objeto": "Contratación del Arrendamiento de un vehículo de 9 plazas para la Delegación de Movilidad del Excmo. Ayuntamiento de Marbella",
-    "estado": "Adjudicada",
+    "estado": "Resuelta",
     "importe": 31200,
-    "fechas": "PublicaciónPLACSP:Adjudicación:11/07/2024"
+    "fechas": "PublicaciónPLACSP:Adjudicación:11/07/2024Formalización:07/08/2024"
   },
   {
     "expediente": "SE 67/24",
